@@ -4,7 +4,7 @@
         <apply_import_set>true</apply_import_set>
         <apply_soap>true</apply_soap>
         <conditions/>
-        <description/>
+        <description>This is a mandatory field</description>
         <enforce_ui>true</enforce_ui>
         <inherit>false</inherit>
         <model_id/>
@@ -17,7 +17,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bfa47fe7db531010c8a485184b9619bf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Sets the Item field to mandatory</sys_name>
         <sys_overrides/>
         <sys_package display_value="Wish List" source="x_466366_wish_list">55f3b3a7db531010c8a485184b961986</sys_package>
@@ -25,6 +25,6 @@
         <sys_scope display_value="Wish List">55f3b3a7db531010c8a485184b961986</sys_scope>
         <sys_update_name>sys_data_policy2_bfa47fe7db531010c8a485184b9619bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-09-23 11:21:27</sys_updated_on>
+        <sys_updated_on>2020-09-23 11:51:50</sys_updated_on>
     </sys_data_policy2>
 </record_update>
